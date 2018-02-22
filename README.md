@@ -16,6 +16,10 @@
 
     hexo server
 
+#### 新建页面
+
+    hexo new [layout] <title>
+
 #### 生成静态文件
 
     hexo generate
